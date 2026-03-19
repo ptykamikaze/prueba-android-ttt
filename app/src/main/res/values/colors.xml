@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_start">#1A1A2E</color>
+    <color name="bg_end">#16213E</color>
+    <color name="bg_mid">#0F3460</color>
+
+    <!-- Player Colors -->
+    <color name="player_x_color">#FF6B6B</color>
+    <color name="player_o_color">#4ECDC4</color>
+    <color name="draw_color">#FFD93D</color>
+
+    <!-- UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="cell_bg">#1F2B4D</color>
+    <color name="cell_bg_pressed">#2D3F6B</color>
+    <color name="grid_bg">#0D1B3E</color>
+    <color name="score_card_bg">#1F2B4D</color>
+    <color name="button_start">#FF6B6B</color>
+    <color name="button_end">#FF8E53</color>
+    <color name="status_bg">#2D3F6B</color>
+    <color name="status_text_color">#E0E8FF</color>
+
+    <!-- System -->
+    <color name="black">#000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>

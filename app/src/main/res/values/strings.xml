@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="your_turn">Your Turn ✨</string>
+    <string name="computer_thinking">CPU is thinking…</string>
+    <string name="you_win">🎉 You Win!</string>
+    <string name="computer_wins">🤖 CPU Wins!</string>
+    <string name="draw">🤝 It\'s a Draw!</string>
+    <string name="new_game">New Game</string>
+    <string name="player_you">YOU</string>
+    <string name="player_cpu">CPU</string>
+    <string name="draw_label">DRAW</string>
+</resources>
